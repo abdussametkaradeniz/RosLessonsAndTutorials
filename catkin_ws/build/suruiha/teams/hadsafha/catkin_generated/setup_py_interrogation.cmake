@@ -1,0 +1,7 @@
+set(hadsafha_SETUP_PY_SETUP_MODULE "distutils.core")
+set(hadsafha_SETUP_PY_VERSION "0.0.0")
+set(hadsafha_SETUP_PY_SCRIPTS "scripts/keyboard_controller.py;scripts/uav_controller.py")
+set(hadsafha_SETUP_PY_PACKAGES "hadsafha")
+set(hadsafha_SETUP_PY_PACKAGE_DIRS "src/hadsafha")
+set(hadsafha_SETUP_PY_MODULES "")
+set(hadsafha_SETUP_PY_MODULE_DIRS "")

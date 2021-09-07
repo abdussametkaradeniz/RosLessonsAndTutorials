@@ -1,0 +1,8 @@
+prefix=/home/ardentblaze/catkin_ws/install
+
+Name: suruiha_gazebo_plugins
+Description: Description of suruiha_gazebo_plugins
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lzephyr_controller -liris_controller
+Requires: message_runtime roscpp gazebo_ros geometry_msgs

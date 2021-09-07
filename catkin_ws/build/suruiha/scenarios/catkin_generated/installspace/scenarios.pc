@@ -1,0 +1,8 @@
+prefix=/home/ardentblaze/catkin_ws/install
+
+Name: scenarios
+Description: Description of scenarios
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(iztech_onair_SETUP_PY_SETUP_MODULE "distutils.core")
+set(iztech_onair_SETUP_PY_VERSION "0.0.0")
+set(iztech_onair_SETUP_PY_SCRIPTS "scripts/keyboard_controller.py;scripts/uav_controller.py")
+set(iztech_onair_SETUP_PY_PACKAGES "iztech_onair")
+set(iztech_onair_SETUP_PY_PACKAGE_DIRS "src/iztech_onair")
+set(iztech_onair_SETUP_PY_MODULES "")
+set(iztech_onair_SETUP_PY_MODULE_DIRS "")

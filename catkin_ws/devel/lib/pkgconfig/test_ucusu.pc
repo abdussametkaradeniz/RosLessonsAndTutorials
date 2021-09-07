@@ -1,0 +1,8 @@
+prefix=/home/ardentblaze/catkin_ws/devel
+
+Name: test_ucusu
+Description: Description of test_ucusu
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

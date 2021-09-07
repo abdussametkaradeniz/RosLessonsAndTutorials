@@ -1,0 +1,8 @@
+prefix=/home/ardentblaze/catkin_ws/devel
+
+Name: labirent_ortam
+Description: Description of labirent_ortam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

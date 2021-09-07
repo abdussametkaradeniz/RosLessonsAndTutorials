@@ -1,0 +1,2 @@
+basit_uygulamalar:find-object:gui_kontrol:ilk_paket:labirent_ortam:ogreciti_paket:slam_ve_navigasyon:turtlebot3/turtlebot3:turtlebot3/turtlebot3_bringup:turtlebot3/turtlebot3_description:turtlebot3/turtlebot3_example:turtlebot3/turtlebot3_navigation:turtlebot3/turtlebot3_slam:turtlebot3/turtlebot3_teleop:turtlebot3_msgs:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/ardentblaze/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ardentblaze/catkin_ws/install -G Unix Makefiles

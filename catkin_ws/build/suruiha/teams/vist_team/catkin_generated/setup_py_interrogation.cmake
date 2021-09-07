@@ -1,0 +1,7 @@
+set(vist_team_SETUP_PY_SETUP_MODULE "distutils.core")
+set(vist_team_SETUP_PY_VERSION "0.0.0")
+set(vist_team_SETUP_PY_SCRIPTS "scripts/keyboard_controller.py;scripts/uav_controller.py")
+set(vist_team_SETUP_PY_PACKAGES "vist_team")
+set(vist_team_SETUP_PY_PACKAGE_DIRS "src/vist_team")
+set(vist_team_SETUP_PY_MODULES "")
+set(vist_team_SETUP_PY_MODULE_DIRS "")

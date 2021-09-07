@@ -1,0 +1,7 @@
+set(test_ucusu_SETUP_PY_SETUP_MODULE "distutils.core")
+set(test_ucusu_SETUP_PY_VERSION "0.0.0")
+set(test_ucusu_SETUP_PY_SCRIPTS "scripts/uav_controller.py")
+set(test_ucusu_SETUP_PY_PACKAGES "test_ucusu")
+set(test_ucusu_SETUP_PY_PACKAGE_DIRS "src/test_ucusu")
+set(test_ucusu_SETUP_PY_MODULES "")
+set(test_ucusu_SETUP_PY_MODULE_DIRS "")

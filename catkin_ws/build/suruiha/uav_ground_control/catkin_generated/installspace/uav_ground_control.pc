@@ -1,0 +1,8 @@
+prefix=/home/ardentblaze/catkin_ws/install
+
+Name: uav_ground_control
+Description: Description of uav_ground_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

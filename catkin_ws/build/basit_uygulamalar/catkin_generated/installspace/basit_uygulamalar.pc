@@ -1,0 +1,8 @@
+prefix=/home/ardentblaze/catkin_ws/install
+
+Name: basit_uygulamalar
+Description: Description of basit_uygulamalar
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
